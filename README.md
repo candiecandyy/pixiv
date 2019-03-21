@@ -1,7 +1,7 @@
 # pixiv
 基于chromedriver编写的pixiv图片爬取
 ###打开setttings.properties文件
-···
+```
 #pixiv username
 username=username
 #pixiv password
@@ -14,5 +14,5 @@ headless=false
 path=D://imgs/
 #Page Count
 pages=10
-···
+```
 当然，因为一些来自于magic的原因，会导致pixiv无法访问，程序连接超时的问题请自行解决。
