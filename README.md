@@ -1,6 +1,6 @@
 # pixiv
 基于chromedriver编写的pixiv图片爬取
-###打开setttings.properties文件
+### 打开setttings.properties文件
 ```
 #pixiv username
 username=username
